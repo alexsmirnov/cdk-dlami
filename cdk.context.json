@@ -1,0 +1,20 @@
+{
+  "availability-zones:account=677257478243:region=us-west-2": [
+    "us-west-2a",
+    "us-west-2b",
+    "us-west-2c",
+    "us-west-2d"
+  ],
+  "ami:account=677257478243:filters.image-type.0=machine:filters.name.0=Deep Learning AMI Neuron (Ubuntu 22.04) ????????:filters.state.0=available:owners.0=amazon:region=us-west-2": "ami-01e6b0d5b6a2b6bc7",
+  "ami:account=677257478243:filters.image-type.0=machine:filters.name.0=Deep Learning Proprietary Nvidia Driver AMI GPU PyTorch 2.0.1 (Amazon Linux 2) ????????:filters.state.0=available:owners.0=amazon:region=us-west-2": "ami-0a93f6a49fca57dd7",
+  "availability-zones:account=677257478243:region=us-east-1": [
+    "us-east-1a",
+    "us-east-1b",
+    "us-east-1c",
+    "us-east-1d",
+    "us-east-1e",
+    "us-east-1f"
+  ],
+  "ami:account=677257478243:filters.image-type.0=machine:filters.name.0=Deep Learning Proprietary Nvidia Driver AMI GPU PyTorch 2.0.1 (Amazon Linux 2) ????????:filters.state.0=available:owners.0=amazon:region=us-east-1": "ami-02a7c8161f9fe6705",
+  "ami:account=677257478243:filters.image-type.0=machine:filters.name.0=Deep Learning Proprietary Nvidia Driver AMI (Amazon Linux 2) Version ??.?:filters.state.0=available:owners.0=amazon:region=us-east-1": "ami-009bf73255d5ac550"
+}
